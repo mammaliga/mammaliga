@@ -13,10 +13,11 @@
 -->
 
 <h3 id="about">About me</h3>
-<p>I am an aspiring software tester passionate about ensuring that software not only works but also provides a great user experience. 
-    <p>My journey into software testing has been fueled by a meticulous and scrupulous character, coupled with an inquisitive mindset eager to uncover and rectify software deficiencies.</p>
-    I look forward to adding my zeal and hands-on approach to a team that prizes thorough, user-centric testing.</p>
-</p>
+<p>I'm a software tester who is passionate about ensuring software not only works but also provides an excellent user experience.</p>
+
+<p>My journey into software testing is driven by my meticulous nature and curiosity to find and fix software issues.</p>
+
+<p>I look forward to bringing my enthusiasm and hands-on approach to a team that values comprehensive, user-centric testing.</p>
 
 <!-- CV 
 -------
